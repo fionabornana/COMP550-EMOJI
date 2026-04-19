@@ -8,4 +8,4 @@ Data sets gathered:
   pages={24--33},
   year={2018}
 }
-2. TODO: scrape reddit api. 
+2.The second data set is youtube comments I scraped!
